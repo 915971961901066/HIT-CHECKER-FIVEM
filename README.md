@@ -6,3 +6,5 @@ How to use it?
 - Enter the key (cRxhBoYdAhdPliuHlu0gfc8VIkKAoy9h)
 - Press 1 to detect cheats(it may take a while)
 - Press 2 to see usb devices
+
+FiveM PWJFB
